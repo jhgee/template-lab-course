@@ -20,3 +20,5 @@ del *.glg
 del *.glo
 del *.gls
 del *.ist
+del *.fdb_latexmk
+del *.fls
