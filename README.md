@@ -1,6 +1,6 @@
-# thesis-template
+# template-lab-course
 
-Many scientists use LaTeX to layout their thesis but unfortunately only few of them pay attention to a nice looking design.
+Latex template for records of physicist's laboratory course.
 
 ## Usage
 
