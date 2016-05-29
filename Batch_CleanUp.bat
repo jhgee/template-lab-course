@@ -12,11 +12,11 @@ del *.ptc
 del *.toc
 del *blx.bib
 del *run.xml
-del *.bcf      
+del *.bcf
 del *.acn
-del *.acr    
+del *.acr
 del *.alg
 del *.glg
 del *.glo
 del *.gls
-del *.ist                                                                                                                                        
+del *.ist
